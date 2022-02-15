@@ -69,6 +69,7 @@
   width: 765px;
   bottom: 0;
   right: 0;
+  object-fit: cover;
   z-index: 1;
  }
 
@@ -311,6 +312,7 @@
   height: 35px;
   width: 183px;
   background-image: url(../images/logo_place_footer.svg);
+  background-size: cover;
 }
 
 .footer__author {
